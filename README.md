@@ -22,8 +22,23 @@ It was designed to support real-time monitoring, reporting, and communication ac
 - Hive & Secure Storage  
 
 ## 📸 Screenshots
-<img width="1080" height="2400" alt="1" src="https://github.com/user-attachments/assets/6eec8045-a650-45de-9b7b-aae12fc0710f" />
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9c3449e7-a0a7-41fe-8282-9f43082abccb" width="250"/>
+  <img src="https://github.com/user-attachments/assets/c2804ea2-fc37-43b6-9eaa-961cd76129b5" width="250"/>
+  <img src="https://github.com/user-attachments/assets/930bd2f4-e292-400b-a2be-c39bf8bcbc08" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/870b665e-996e-46c5-ba62-ea17140a504d" width="250"/>
+  <img src="https://github.com/user-attachments/assets/efbe03ea-3d12-462a-ba73-4ac485d3d43e" width="250"/>
+  <img src="https://github.com/user-attachments/assets/76c427ac-f8d5-4fd3-877e-81eecb138d29" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9fb076b6-c890-4bab-8e22-5dce62231c22" width="250"/>
+  <img src="https://github.com/user-attachments/assets/a1c7f7d2-fe4e-4e3e-97bd-bc56107dc9b5" width="250"/>
+</p>
 
 ## 👨‍💻 My Role
 - Built and maintained core application features  
