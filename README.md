@@ -21,8 +21,6 @@ It was designed to support real-time monitoring, reporting, and communication ac
 - Firebase (FCM)  
 - Hive & Secure Storage  
 
-## 📸 Screenshots
-
 ## 📸 App Showcase
 
 ### 1️⃣ User Onboarding & Service Discovery
