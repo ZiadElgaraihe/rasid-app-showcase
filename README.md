@@ -24,7 +24,7 @@ It was designed to support real-time monitoring, reporting, and communication ac
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c3449e7-a0a7-41fe-8282-9f43082abccb" width="250"/>
+  <img src="https://github.com/user-attachments/assets/3de671c3-b5eb-4a8b-bcbb-a04e0c66b60a" width="250"/>
   <img src="https://github.com/user-attachments/assets/c2804ea2-fc37-43b6-9eaa-961cd76129b5" width="250"/>
   <img src="https://github.com/user-attachments/assets/930bd2f4-e292-400b-a2be-c39bf8bcbc08" width="250"/>
 </p>
