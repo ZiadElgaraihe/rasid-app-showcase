@@ -28,10 +28,10 @@ It was designed to support real-time monitoring, reporting, and communication ac
 ### 1️⃣ User Onboarding & Service Discovery
 Experience a seamless entry with secure authentication and a clear overview of facility services.
 
-| Login Screen | Landing Page | Service Categories |
+| Brand Identity | Login Screen | Service Categories |
 | :---: | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/c2804ea2-fc37-43b6-9eaa-961cd76129b5" width="280"> | <img src="https://github.com/user-attachments/assets/3de671c3-b5eb-4a8b-bcbb-a04e0c66b60a" width="280"> | <img src="https://github.com/user-attachments/assets/930bd2f4-e292-400b-a2be-c39bf8bcbc08" width="280"> |
-| *Secure Login* | *Branding & Launch* | *Service Variety* |
+| <img src="https://github.com/user-attachments/assets/3de671c3-b5eb-4a8b-bcbb-a04e0c66b60a" width="280"> | <img src="https://github.com/user-attachments/assets/c2804ea2-fc37-43b6-9eaa-961cd76129b5" width="280"> | <img src="https://github.com/user-attachments/assets/930bd2f4-e292-400b-a2be-c39bf8bcbc08" width="280"> |
+| *Splash Logo* | *Secure Login* | *Service Variety* |
 
 ---
 
