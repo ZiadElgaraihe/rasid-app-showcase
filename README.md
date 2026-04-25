@@ -23,22 +23,36 @@ It was designed to support real-time monitoring, reporting, and communication ac
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/3de671c3-b5eb-4a8b-bcbb-a04e0c66b60a" width="250"/>
-  <img src="https://github.com/user-attachments/assets/c2804ea2-fc37-43b6-9eaa-961cd76129b5" width="250"/>
-  <img src="https://github.com/user-attachments/assets/930bd2f4-e292-400b-a2be-c39bf8bcbc08" width="250"/>
-</p>
+## 📸 App Showcase
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/870b665e-996e-46c5-ba62-ea17140a504d" width="250"/>
-  <img src="https://github.com/user-attachments/assets/efbe03ea-3d12-462a-ba73-4ac485d3d43e" width="250"/>
-  <img src="https://github.com/user-attachments/assets/76c427ac-f8d5-4fd3-877e-81eecb138d29" width="250"/>
-</p>
+### 1️⃣ User Onboarding & Service Discovery
+Experience a seamless entry with secure authentication and a clear overview of facility services.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/9fb076b6-c890-4bab-8e22-5dce62231c22" width="250"/>
-  <img src="https://github.com/user-attachments/assets/a1c7f7d2-fe4e-4e3e-97bd-bc56107dc9b5" width="250"/>
-</p>
+| Login Screen | Landing Page | Service Categories |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c2804ea2-fc37-43b6-9eaa-961cd76129b5" width="280"> | <img src="https://github.com/user-attachments/assets/3de671c3-b5eb-4a8b-bcbb-a04e0c66b60a" width="280"> | <img src="https://github.com/user-attachments/assets/930bd2f4-e292-400b-a2be-c39bf8bcbc08" width="280"> |
+| *Secure Login* | *Branding & Launch* | *Service Variety* |
+
+---
+
+### 2️⃣ Operational & Communication Tools
+Real-time coordination tools designed for security and facility staff.
+
+| Emergency SOS & Walkie-Talkie | Task Management | System Notifications |
+| :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/efbe03ea-3d12-462a-ba73-4ac485d3d43e" width="280"> | <img src="https://github.com/user-attachments/assets/9fb076b6-c890-4bab-8e22-5dce62231c22" width="280"> | <img src="https://github.com/user-attachments/assets/870b665e-996e-46c5-ba62-ea17140a504d" width="280"> |
+| *SOS & Channels* | *Priority Reporting* | *Real-time Alerts* |
+
+---
+
+### 3️⃣ Administration & Features Overview
+Comprehensive management for staff and operational modules.
+
+| Staff Registration | Features Grid |
+| :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/76c427ac-f8d5-4fd3-877e-81eecb138d29" width="280"> | <img src="https://github.com/user-attachments/assets/a1c7f7d2-fe4e-4e3e-97bd-bc56107dc9b5" width="280"> |
+| *New Member Flow* | *Module Overview* |
+
 
 ## 👨‍💻 My Role
 - Built and maintained core application features  
