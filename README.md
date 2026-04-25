@@ -15,7 +15,7 @@ It was designed to support real-time monitoring, reporting, and communication ac
 
 ## 🛠 Tech Stack
 - Flutter & Dart  
-- Clean Architecture  
+- MVVM  
 - BLoC (State Management)  
 - REST APIs (Dio)  
 - Firebase (FCM)  
@@ -42,7 +42,7 @@ It was designed to support real-time monitoring, reporting, and communication ac
 
 ## 👨‍💻 My Role
 - Built and maintained core application features  
-- Implemented scalable architecture using Clean Architecture and BLoC  
+- Implemented scalable architecture using MVVM and BLoC  
 - Integrated REST APIs and handled complex data flows  
 - Developed SOS and reporting systems  
 - Implemented real-time notifications (FCM)  
